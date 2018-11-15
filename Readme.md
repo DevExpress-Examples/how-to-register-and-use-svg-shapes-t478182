@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/DiagramSVGItemsWinForms/Form1.cs) (VB: [Form1.vb](./VB/DiagramSVGItemsWinForms/Form1.vb))
+* [Program.cs](./CS/DiagramSVGItemsWinForms/Program.cs) (VB: [Program.vb](./VB/DiagramSVGItemsWinForms/Program.vb))
+<!-- default file list end -->
 # How to register and use SVG shapes
 
 
